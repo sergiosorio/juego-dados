@@ -1,0 +1,5 @@
+realice un programa que simule el lanzamiento de dos dados.
+Jugaran dos personas, el programa debera permitir colocar
+el nombre a cada jugador y lanzar los dados, ganara quien saque
+el mayor puntaje. Al final el programa debera decir quien gano y cuanto 
+puntaje saco.

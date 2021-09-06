@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    background-image: url("../img/cubes.png");    
+}
+
+.principal{
+    background-color: #1A7D1E;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    padding: 10px;    
+}
+
+.principal h2{
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 1px 2px #ccc;
+    letter-spacing: 1px;
+    font-size: 32px;
+    font-family: "algerian";
+    margin-bottom: 25px;    
+}
+
+.formulariogeneral{
+   background-color: white;
+   border-radius: 5px;
+   padding: 5px;
+   margin:0 auto;
+   width: 210px;
+   height: auto;   
+   float: left;
+}
+
+form{
+    border-radius: 10px;
+    height: auto;
+    width: 200px;
+    padding: 5px;    
+}
+
+.lateral{
+    border-radius: 5px;
+    background-color: cornsilk;
+    height: auto;
+    width: 300px;
+    padding: 5px;  
+    float: right;
+}
+
+.lateral h3{
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 1px 2px #ccc;
+}
